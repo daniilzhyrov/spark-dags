@@ -1,4 +1,4 @@
-apiVersion: "sparkoperator.hpe.com/v1beta2"
+apiVersion: "sparkoperator.k8s.io/v1beta2"
 kind: SparkApplication
 metadata:
   generateName: spark-pi-secure-
